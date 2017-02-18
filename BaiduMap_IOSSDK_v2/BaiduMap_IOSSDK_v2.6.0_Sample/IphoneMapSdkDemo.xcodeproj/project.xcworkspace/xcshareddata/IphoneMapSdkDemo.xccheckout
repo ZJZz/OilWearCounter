@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D8597EE-EBEC-4610-9CE8-DAFF9B11C0F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IphoneMapSdkDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8ffc659c-35db-9247-ab0c-78853eb405a5++979</key>
+		<string>https://192.168.0.100/svn/140725/3.%25252525E4%25252525B8%25252525AA%25252525E4%25252525BA%25252525BA%25252525E9%25252525A1%25252525B9%25252525E7%252525259B%25252525AE%25252525E4%25252525BB%25252525A3%25252525E7%25252525A0%2525252581/%25252525E5%25252525BC%25252525A0%25252525E9%2525252593%2525252581%25252525E5%2525252586%252525259B/%25252525E6%25252525B2%25252525B9%25252525E8%2525252580%2525252597%25252525E8%25252525AE%25252525A1%25252525E7%25252525AE%2525252597%25252525E5%2525252599%25252525A8</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OilWearCounter/BaiduMap_IOSSDK_v2/BaiduMap_IOSSDK_v2.6.0_Sample/IphoneMapSdkDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8ffc659c-35db-9247-ab0c-78853eb405a5++979</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>8ffc659c-35db-9247-ab0c-78853eb405a5++979</key>
+		<string>https://192.168.0.100/svn/140725</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.0.100/svn/140725/3.%25252525E4%25252525B8%25252525AA%25252525E4%25252525BA%25252525BA%25252525E9%25252525A1%25252525B9%25252525E7%252525259B%25252525AE%25252525E4%25252525BB%25252525A3%25252525E7%25252525A0%2525252581/%25252525E5%25252525BC%25252525A0%25252525E9%2525252593%2525252581%25252525E5%2525252586%252525259B/%25252525E6%25252525B2%25252525B9%25252525E8%2525252580%2525252597%25252525E8%25252525AE%25252525A1%25252525E7%25252525AE%2525252597%25252525E5%2525252599%25252525A8/OilWearCounter/BaiduMap_IOSSDK_v2/BaiduMap_IOSSDK_v2.6.0_Sample/IphoneMapSdkDemo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8ffc659c-35db-9247-ab0c-78853eb405a5++979</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8ffc659c-35db-9247-ab0c-78853eb405a5++979</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E6%B2%B9%E8%80%97%E8%AE%A1%E7%AE%97%E5%99%A8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
